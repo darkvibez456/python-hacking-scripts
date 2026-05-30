@@ -22,7 +22,7 @@ pkg install python git
 pip install requests beautifulsoup4
 git clone https://github.com/darkvibez456/python-hacking-scripts
 cd python-hacking-scripts
-python3 tools/scanner.py
+python3 scanner.py
 ```
 
 ## 📦 Installation (Linux)
@@ -31,7 +31,7 @@ python3 tools/scanner.py
 git clone https://github.com/darkvibez456/python-hacking-scripts
 cd python-hacking-scripts
 pip install -r requirements.txt
-python3 tools/scanner.py
+python3 scanner.py
 ```
 
 ## ⚡ Features
@@ -44,22 +44,25 @@ python3 tools/scanner.py
 
 ---
 
-## 📁 Project Structure
+## 📄 File List
 
-```text
-python-hacking-scripts/
-├── .github/              # GitHub Templates
-│├── scanner.py        # Port Scanner
- ── xss_detector.py   # XSS Auditor
-├── .gitignore            # Git Ignore File
-├── CONTRIBUTING.md       # Contribution Guide
-├── LICENSE               # MIT License
-├── README.md             # Project Overview
-├── SECURITY.md           # Security Policy
-└── requirements.txt      # Dependence 
-```
+1.  **README.md** - Project Overview
+2.  **scanner.py** - Port Scanner Tool
+3.  **xss_detector.py** - XSS Auditor Tool
+4.  **setup.sh** - Automated Setup Script
+5.  **requirements.txt** - Dependencies
+6.  **LICENSE** - MIT License
+7.  **CONTRIBUTING.md** - Guide for Contributors
+8.  **SECURITY.md** - Security Policy
+9.  **CHANGELOG.md** - Version History
+10. **TOOLS.md** - Detailed Tool List
+11. **.gitignore** - Git Ignore File
+12. **bug_report.md** - Bug Report Template
+13. **feature_request.md** - Feature Request Template
+14. **pull_request_template.md** - PR Template
 
 ---
 <p align="center">
   <b>Developed with ❤️ by <a href="https://github.com/darkvibez456">Dark Vibez</a></b>
 </p>
+
