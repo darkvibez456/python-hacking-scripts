@@ -1,0 +1,30 @@
+# Security Policy
+
+We take the security of our tools and the projects that use them seriously. If you discover a security vulnerability within `python-hacking-scripts`, please report it to us as quickly as possible.
+
+## Reporting a Vulnerability
+
+To report a security vulnerability, please send an email to **darkvibez456@example.com** (replace with your actual security contact email).
+
+Please include as much detail as possible about the vulnerability, including:
+
+-   **Description:** A clear and concise description of the vulnerability.
+-   **Steps to Reproduce:** Detailed steps to reproduce the vulnerability.
+-   **Impact:** The potential impact of the vulnerability.
+-   **Affected Versions:** Which versions of `python-hacking-scripts` are affected.
+-   **Proof of Concept (Optional):** Any proof of concept code or exploits.
+
+## Our Commitment
+
+We are committed to:
+
+-   Acknowledging your report within 24-48 hours.
+-   Providing a detailed response and estimated timeline for remediation within 72 hours.
+-   Keeping you informed of the progress towards a fix.
+-   Publicly acknowledging your contribution (if you wish) once the vulnerability is resolved.
+
+## Responsible Disclosure
+
+We encourage responsible disclosure. Please do not disclose the vulnerability publicly until we have had a chance to address it.
+
+Thank you for helping to keep `python-hacking-scripts` secure!
