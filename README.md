@@ -49,15 +49,14 @@ python3 tools/scanner.py
 ```text
 python-hacking-scripts/
 ├── .github/              # GitHub Templates
-├── tools/                # Core Hacking Scripts
-│   ├── scanner.py        # Port Scanner
-│   └── xss_detector.py   # XSS Auditor
+│├── scanner.py        # Port Scanner
+ ── xss_detector.py   # XSS Auditor
 ├── .gitignore            # Git Ignore File
 ├── CONTRIBUTING.md       # Contribution Guide
 ├── LICENSE               # MIT License
 ├── README.md             # Project Overview
 ├── SECURITY.md           # Security Policy
-└── requirements.txt      # Dependencies
+└── requirements.txt      # Dependence 
 ```
 
 ---
